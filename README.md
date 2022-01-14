@@ -1,4 +1,4 @@
-# Basic Hardhat Project for the deployment of nft
+# Basic Hardhat Project of NFT
 
 This project demonstrates the deployment of Nft using Hardhat. It comes with a sample contract, a test for that contract, a script for deploy for the contract. All the information about NFT is written in nft-metadata.json file. The image file is uploaded in Pinata (IPFS).
 
