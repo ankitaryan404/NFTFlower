@@ -19,3 +19,12 @@ node scripts/deploy.js
 
 File can be seen in 
 [Deplyed Image in Pinata](https://gateway.pinata.cloud/ipfs/QmRZuG3FWhadwSuP98xAvGvP6qw5y1sTmK1QRn31ykZyMe)
+
+
+### Make and .env file in root directory  write the following code
+
+```
+API_URL=Enter Api Url From Alchemy or Infura
+PRIVATE_KEY=Enter your test network Private Key
+PUBLIC_KEY=Enter your account public key
+```
