@@ -1,15 +1,19 @@
-# Basic Sample Hardhat Project for the deployment of nft
+# Basic Hardhat Project for the deployment of nft
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates the deployment of Nft using Hardhat. It comes with a sample contract, a test for that contract, a script for deploy for the contract. All the information about NFT is written in nft-metadata.json file. The image file is uploaded in Pinata (IPFS).
 
-Try running some of the following tasks:
+To install the packages write 
+```
+npm install
+```
 
-```shell
-npx hardhat accounts
+To compile the project run
+```
 npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
+```
+
+```
+To deploy the project
 node scripts/sample-script.js
 npx hardhat help
 ```
