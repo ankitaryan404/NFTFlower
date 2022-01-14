@@ -11,9 +11,11 @@ To compile the project run
 ```
 npx hardhat compile
 ```
-
-```
 To deploy the project
-node scripts/sample-script.js
-npx hardhat help
 ```
+
+node scripts/deploy.js
+```
+
+File can be seen in 
+[Deplyed Image in Pinata](https://gateway.pinata.cloud/ipfs/QmRZuG3FWhadwSuP98xAvGvP6qw5y1sTmK1QRn31ykZyMe)
